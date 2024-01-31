@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "17713878935",
+    "project_id": "aichat-4c940",
+    "storage_bucket": "aichat-4c940.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17713878935:android:5cc1663ba556d239f016d2",
+        "android_client_info": {
+          "package_name": "com.hopper.technology.ai.webapp.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAEcu5tpw-h936quxxbJSQ_Rxdi_6QtMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
